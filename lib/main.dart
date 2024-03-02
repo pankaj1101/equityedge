@@ -10,7 +10,7 @@ void main() {
   SystemChrome.setPreferredOrientations( 
     [
       DeviceOrientation.portraitUp,
-      DeviceOrientation.portraitDown,
+      DeviceOrientation.portraitDown,  
     ],
   );
   runApp(const MyApp());
